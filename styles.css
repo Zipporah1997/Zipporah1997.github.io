@@ -1,0 +1,93 @@
+header {
+  background-color: rgb(243, 209, 220);
+  border-bottom: 2px solid burlywood;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 10px;
+  padding: 10px;
+}
+.image{
+  width:300px;
+   height:400px;
+  border-radius: 20%;
+  border: 2px solid white;
+}
+.my_portfolio{
+  text-decoration: none;
+  color: black;
+  font-size: 22px;
+  font-weight: bold;
+  background-color: rgb(207, 162, 207);
+  margin: 50px;
+  padding: 5px;
+  border-radius: 30px;
+  border: 2px solid white;
+  margin-block-end: 50px;
+  
+}
+section{
+  background-color: rgb(243, 209, 220);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 10px;
+  padding: 20px;
+  border-bottom: 1px solid brown;
+}
+.contact {
+text-align: center;
+
+}
+.link1{
+  text-decoration: none;
+  font-weight: bold;
+  color: magenta;
+  font-size: 20px;
+}
+.link2{
+  text-decoration: none;
+  font-weight: bold;
+  color: magenta;
+  font-size: 20px;
+}
+
+footer{
+  text-align: center;
+  font-weight: bolder;
+  font-size: larger;
+  font-style: oblique;
+}
+/*this is where the styling of the second page starts*/
+
+.n1, .n2, .n3 {
+  width: 350px;
+  height: 230px;
+  margin: 20px;
+  padding: 10px;
+  align-items: center;
+  align-content: space-between;
+  border: 2px solid magenta;
+  
+}
+.flex-container {
+  display: flex;
+  
+}
+.homepage {
+
+  font-weight: bold;
+font-size: larger;
+}
+.index2{
+  text-decoration: none;
+  color: magenta;
+}
+.about{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  padding: 20px;
+  margin: 5px;
+}
+
+
+
+
+
+
